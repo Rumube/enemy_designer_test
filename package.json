@@ -1,0 +1,26 @@
+
+{
+  "name": "com.unityexample.enemydesigner",
+  "displayName": "Enemy Designer",
+  "version": "1.0.1",
+  "description": "This tool allows you to easily create and edit enemies for an RPG type game.",
+  "dependencies": {},
+  "keywords": [
+    "unity",
+    "unity3d",
+    "upm",
+    "3d-group",
+    "utility"
+  ],
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rumube/enemy_designer_test.git"
+  },
+  "author": {
+		"name": "Rubén Muñoz",
+		"email": "rumube@floridauniversitaria.es",
+		"url": "https://www.unity.com"
+  },
+  "type": "tool"
+}
